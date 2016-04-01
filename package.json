@@ -1,6 +1,6 @@
 {
   "name": "node-fetch",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "A light-weight module that brings window.fetch to node.js and io.js",
   "main": "index.js",
   "scripts": {
@@ -38,5 +38,9 @@
   "dependencies": {
     "encoding": "^0.1.11",
     "is-stream": "^1.0.1"
+  },
+  "esDependencies": {
+    "encoding": "QmfHGvwwkwn9Z3AGhbhdqXxxiq7Zx2RkYfAvnvpM5yy63y",
+    "is-stream": "QmaDDaPTHJVSbh71Vf8EUyN1pWH9FBteHxLAQUutmeqVVD"
   }
 }
